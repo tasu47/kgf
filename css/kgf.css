@@ -1,0 +1,67 @@
+
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+display: grid;
+justify-content: center;
+background-color:white;
+width: 360px;
+border-radius: 6px;
+ box-shadow: -1px 1px 5px 5px #dfe4df;
+ margin: auto;
+
+}
+h2{
+    font-size: 19px;
+}
+.main .kgf{
+    display: flex;
+    gap: 20px;
+}
+.main .kgf .kgf1 .btn{
+    display: flex;
+margin-top: -15px;
+
+}
+.main .kgf .kgf1 .btn p{
+background-color: rgba(224, 224, 227, 0.5);
+margin: 2px; 
+padding:4px ;
+font-size: 13px;
+border-radius: 3px;
+margin-top: 10px;
+color: black;
+}
+.main .kgf .kgf1 p {
+font-size: 14.5px;
+color: rgb(78, 114, 90);
+}
+.main .kgf .kgf1 .span{
+    padding-top: 5px;
+}
+.main .kgf .image {
+    padding-top: 20px;
+}
+.main .kgf .image img { 
+   border-radius: 10px;
+   height: 170px;
+   width: 150px;
+}
+.main .show, .screen, .gold{
+    font-size: 13px;
+    color: rgb(78, 114, 90);
+}
+.main .screen h2, .gold h2{
+    color: black;
+   
+}
+
+.main .booking label{
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 12px;
+color: rgb(64, 95, 74);
+}
